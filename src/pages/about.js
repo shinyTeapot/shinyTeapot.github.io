@@ -31,7 +31,7 @@ export const E_page_about = ({}) => {
 				<S_board_title_underline></S_board_title_underline>
 
 				<_board_space>
-					<S_board_text style={{marginTop:"5px"}}><_line> Github: </_line><S_text_link href="https://github.com/MrColour" target="_blank">MrColour</S_text_link></S_board_text>
+					<S_board_text style={{marginTop:"5px"}}><_line> Github: </_line><S_text_link href="https://github.com/shinyTeapot" target="_blank">shinyTeapot</S_text_link></S_board_text>
 					<S_board_text style={{marginTop:"5px"}}><_line>Player Name:</_line> Kevin Mira </S_board_text>
 					<S_board_text style={{marginTop:"5px"}}><_line>Location:</_line> Los Angeles, CA </S_board_text>
 					<S_board_text style={{marginTop:"5px"}}><_line>LinkedIn:</_line> <S_text_link href="https://www.linkedin.com/in/kevin-dev/" target="_blank">kevin-dev</S_text_link></S_board_text>
