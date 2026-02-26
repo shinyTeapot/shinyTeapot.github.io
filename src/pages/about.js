@@ -116,6 +116,7 @@ const _card = styled.div`
 	flex-direction: column;
 	font-size: max(min(1.8vw, 16px), 8px);
 	color: ${(props) => props.theme.style_accent_color};
+	list-style: none;
 `
 
 const _card_tittle = styled(S_board_title_underline)`
